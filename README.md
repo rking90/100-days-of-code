@@ -8,6 +8,6 @@ Step 2 - Jasmin-Account-Setup
 Step 3 - Network-Check
 Step 4 - Jasmin-Access-Request
 Step 5 - Jasmin-Services-Request
-Step 6 - NA
+Step 6 - How to Login
 Step 7 - CEDA-Account-Setup
 Step 8 - CEDA-Jamin-Link
