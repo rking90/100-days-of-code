@@ -29,3 +29,9 @@ From here navigate to the .SSH folder you created using the SSH-Keygen previousl
 > Select: your file named id_rsa_jasmin
 
 Select: OK
+
+You will receive a prompt to restart MobaXterm to load configuration settings
+
+When MobaXterm loads
+you will be asked for a password 
+> Enter the passkey you created during the SSH-Keygen process earlier.
