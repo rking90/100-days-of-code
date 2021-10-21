@@ -1,3 +1,6 @@
+Step 3 - Network-Check
+===
+
 Attempt to access the following URL from the machine which will be used to make the SSH connection to JASMIN:
 
 https://accounts.jasmin.ac.uk/services/reverse_dns_check/
