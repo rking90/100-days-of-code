@@ -1,1 +1,11 @@
-You will receive an error message, ignore it and continue on your way.
+Attempt to access the following URL from the machine which will be used to make the SSH connection to JASMIN:
+
+https://accounts.jasmin.ac.uk/services/reverse_dns_check/
+
+Please Note 
+**You will receive the following error message
+
+External IP address: 148.64.29.105
+Reverse DNS lookup failed
+
+Ignore this message and continue on to the next step.
