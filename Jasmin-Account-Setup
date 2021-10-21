@@ -1,0 +1,67 @@
+load the JASMIN accounts webpage
+> https://accounts.jasmin.ac.uk/
+
+> Select: Apply for a new JASMIN account
+
+Section 1 - Required Information
+
+> Email
+Provide your JNCC email address
+
+> First Name 
+Provide your full first name
+
+> Surname
+Provide your full surname
+
+> Discipline
+> Select: the drop down and select: Earth Observation
+
+> Degree
+> Select: the drop down and select: Other
+
+> Institution
+> Select: the drop down and type in JNCC (select the full named version)
+
+> What will you be using JASMIN for?
+> In this section, you need to provide a brief description of the work you are doing.
+> e.g. I require a JASMIN account to perform QC of Earth observation scenes from sentinel 1 satellite, corrected to clip an unknown artefact present in scenes from 2018 onwards.
+
+> Select: I'm not a robot
+
+> Select: Submit Application
+
+A Link will be sent to your email address for verification
+Select the link to continue your account set up.
+
+Section 2 - Required information
+
+> Username
+Create a username 
+
+> Password
+Create a password that contains 9 characters at lease
+Must contain lower and upper case letters, a number and a symbol.
+You cannot use a commonly used password
+
+> Confirm Password
+Repeat the password entered above - exactly (case sensitive)
+
+> SSH Public Key
+Load your file explorer and navigate to the .SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
+Right click on the id_rsa_jasmin.pub file and open the file using the notepad program.
+
+> within the new file that has loaded press ctrl+A to highlight all the text 
+> then press ctrl+C to copy the text
+
+Navigate back to the JASMIN account webpage
+Click inside the SSH Public key text box
+> then press ctrl+V to paste the public key text in to place
+
+> Select Create Account
+Located at the bottom of the page
+
+> Select I Agree to the terms and conditions
+
+You will autmoatically navigate to the log in page
+you can now login using the username and password you created
