@@ -1,0 +1,59 @@
+Request NoMachine to be downloaded on to your computer by IT (along with MobaExterm)
+Ensure you have completed steps 1-6 of the jasmin set up guide in the link below before attempting to log in to NoMachine.
+https://help.jasmin.ac.uk/article/189-get-started-with-jasmin
+See tutorials in (Sentinel1_QC github repository) for assistance through each step.
+
+> Load NoMachine 
+
+> Select: continue
+located on the bottom right
+to navigate to the NoMachine homescreen
+
+The homepage will present your recent connections.
+To create a new connection
+> Select: New
+>- located on the right of the search bar
+
+> Select: the protocol dropdown box 
+> Select: SSH
+> Select: Continue 
+>- located on the bottom right
+
+> Fill in Host textbox with:
+>- nx-login2.jasmin.ac.uk
+**Note - you must use Login 2 as this is required for remote access.
+Do not alter the port value - this number is set to 22 when you selected SSH on the previous page.
+> Select: Continue
+>- located on the bottom right
+
+For authentication method:
+> Select: Private Key
+> Select: Continue
+>- located on the bottom right
+
+Select the "more" symbol on the right hand side of the file name text box
+>- This will load your file explorer
+From here navigate your the SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
+> Select: your file named id_rsa_jasmin
+> Then select: Forward Authentication
+> Select: Continue
+>- located on the bottom right
+
+> Select: Don't use a proxy
+> Select: Continue
+>- located on the bottom right 
+
+For naming your connection:
+>- leave the default name provided for you.
+>- you are not required to create a desktop link
+
+Finally - 
+> Select: done
+
+> Sometimes:
+>- You will automativally navigate to the log in page.
+> Othertimes:
+>- You will automatically navigate back to the homepage, you must then select the connection you have just made to load the login page.
+
+On either occurrance:
+Enter your jasmin usename and public passkey (although here you should actually enter your private passkey)
