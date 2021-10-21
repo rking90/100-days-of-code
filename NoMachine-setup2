@@ -33,7 +33,7 @@ For authentication method:
 
 Select the "more" symbol on the right hand side of the file name text box
 >- This will load your file explorer
-From here navigate your the SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
+From here navigate to the .SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
 > Select: your file named id_rsa_jasmin
 > Then select: Forward Authentication
 > Select: Continue
