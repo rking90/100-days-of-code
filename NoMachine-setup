@@ -39,7 +39,7 @@ When the page loads
 > Then select: Modify
 
 This will load your file explorer
-From here navigate to the SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
+From here navigate to the .SSH folder you created using the SSH-Keygen previously (see SSH_Keygen tutorial for assistance)
 
 > Then select: Forward Authentication
 
